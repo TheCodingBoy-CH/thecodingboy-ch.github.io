@@ -1,0 +1,17 @@
+CACHE MANIFEST
+#version 1.1.9
+
+CACHE:
+index.html
+options.js
+p5.min.js
+sketch.js
+style.css
+Montserrat-Black.ttf
+background.jpg
+
+SETTINGS:
+prefer-online
+
+NETWORK:
+*

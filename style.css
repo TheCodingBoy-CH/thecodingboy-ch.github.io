@@ -1,0 +1,56 @@
+html {
+	text-align: center;
+	align-content: center;
+	background-color: #cdf4a4;
+	overflow-x: hidden;
+}
+
+#about {
+	color: #e0e0e0;
+	background-color: #505050;
+	margin: 0 -999rem;
+  	/* add back negative margin value */
+  	padding: 0.25rem 999rem;
+  	margin-bottom: 5vh;
+}
+
+#projects {
+	color: #e0e0e0;
+	background-color: #505050;
+	margin: 0 -999rem;
+  	/* add back negative margin value */
+  	padding: 0.25rem 999rem;
+}
+
+.title {
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-family: Montserrat;
+	font-size: 40px;
+}
+
+.content {
+	font-family: Montserrat;
+	font-size: 20px;
+}
+
+.link {
+	font-family: Montserrat;
+	font-size: 20px;
+	text-decoration: none;
+	color: #074395;
+}
+
+.link:visited {
+	color: #074395;
+}
+
+.project {
+	color: #505050;
+	background-color: #e0e0e0;
+	width: auto;
+	display: inline-block;
+	padding: 10px;
+	padding-bottom: 3px;
+	border-radius: 3px;
+}
